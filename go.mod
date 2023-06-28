@@ -3,7 +3,7 @@ module github.com/civet148/cryptos
 go 1.19
 
 require (
-	github.com/civet148/log v1.4.3
+	github.com/civet148/log v1.4.4
 	golang.org/x/crypto v0.10.0
 )
 
